@@ -1,0 +1,1 @@
+var laposteXHR = new XMLHttpRequest()
